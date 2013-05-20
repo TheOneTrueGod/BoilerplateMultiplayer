@@ -1,0 +1,45 @@
+Like a tower defense but with units instead of towers.
+Similar toth that other game you played a while ago where you had to buy troops.
+
+You have one hero unit
+You can buy upgrades for him if you want
+You can also buy units and upgrades for those units.
+The enemy will either be nothing and just send waves of units your way, or be a similar hero that does the same.
+
+Build in co-op and vs modes.
+http://www.kongregate.com/games/randomBC/battle-for-alandria
+
+
+You start buy buying some number of 2 or 3 base units.  These units can then gain XP and be upgraded into an entire tech tree.
+When a unit levels up, you can allot stat points.  The stats it has determines what it can upgrade into.
+Stats:
+Strength -- Physical attacking strength.  Important to melee characters and crossbowmen.
+Defense -- Reduces damage.
+Aim -- Ranged attacking strength.  Important to all ranged characters.
+Spd -- Affects attack speed and movement speed. (Don't make it matter too much)
+Wis -- Affects buffs and mana regen
+Int -- Affects magic damage and mana
+Luck -- Affects lots of things in a small way.  (Crit chance, reduces damage, increases damage, etc)
+
+TREE 1 (Human)
+TIER 1 (Level 1)
+	TIER 2 (Level 3) (2 requirements)
+		TIER 3 (Level 8) (4 requirements)
+			TIER 4 (Level 15) (7-8 requirements)
+Peasant (Wields pitchfork)
+	Squire (Wields club) [1 str, 1 def]
+		Cavalry (Lance, on horse) [2 str, 2 def]
+		Knight (Heavy Armour) [1 str, 3 def]
+		Swordsman (Big ol' sword) [3 str, 1 def]
+	Slinger (Wields sling) [2 aim]
+		Knife Thrower [2 aim, 1 str, 1 luck]
+		Lance Thrower [2 str, 2 aim]
+			Crossbowman [
+		Bowman [4 aim]
+	Apprentice (Magic) [1 wis, 1 int]
+		Cleric [3 wis, 1 int] (Heals minor amount)
+		Wizard [1 wis, 3 int] (Magic Missile Spell)
+		Sorcerer [1 wis, 1 int, 2 luck] (Chaotic Magic Missile Spell)
+
+Random unit ideas:
+Ranged: Crossbowman, bowman, knife thrower
